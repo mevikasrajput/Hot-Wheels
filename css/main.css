@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.inline{
+    display: inline;
+    color: rgb(245, 235, 242);
+}
+
+.heads{
+    color: rgb(209, 197, 204);
+}
+
+.one{
+    background: url("https://images.pexels.com/photos/204366/pexels-photo-204366.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500") center;
+    background-size: cover;
+
+}
+
+#hotwheelstitle {
+    padding-left: 10px;
+    padding-top: 5px;
+
+}
+
+#logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hotwheelsblock {
+    padding: 0px;
+    margin-right: 0px;
+    height: 200px;
+    border-radius: 6px;
+    max-width: 100%;
+
+}
