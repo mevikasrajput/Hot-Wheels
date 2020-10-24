@@ -5,11 +5,11 @@
 
 .inline{
     display: inline;
-    color: rgb(245, 235, 242);
+    color: #fff;
 }
 
-.heads{
-    color: rgb(209, 197, 204);
+#topSection h1{
+    color: #fff;
 }
 
 .one{
@@ -39,8 +39,6 @@
     margin-right: 0px;
     height: 200px;
     border-radius: 6px;
-    max-width: 100%;
-
 }
 
 .hotwheelsblock img{
