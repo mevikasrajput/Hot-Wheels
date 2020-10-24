@@ -13,10 +13,13 @@
 }
 
 .one{
-    background: url("https://images.pexels.com/photos/204366/pexels-photo-204366.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500") center;
+    background: url("https://images.pexels.com/photos/315938/pexels-photo-315938.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500") center;
     background-size: cover;
-
+    border-radius: 3px;
+    box-shadow: #000 0 1px 6px;
 }
+
+
 
 #hotwheelstitle {
     padding-left: 10px;
@@ -38,3 +41,11 @@
     max-width: 100%;
 
 }
+
+.hotwheelsblock img{
+    max-width: 100% ;
+    border-radius: 3px;
+    box-shadow: #000 0 1px 6px;
+    max-height: 200px;
+}
+
