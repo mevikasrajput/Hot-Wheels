@@ -13,10 +13,11 @@
 }
 
 .one{
-    background: url("https://images.pexels.com/photos/315938/pexels-photo-315938.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500") center;
+    background: url("../images/car-bg.jpg") left bottom;
     background-size: cover;
     border-radius: 3px;
-    box-shadow: #000 0 1px 6px;
+    box-shadow: #0e0b0b 0 1px 12px;
+    padding: 50px 0;
 }
 
 
